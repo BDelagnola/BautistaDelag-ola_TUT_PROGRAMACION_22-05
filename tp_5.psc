@@ -1,4 +1,4 @@
-Algoritmo ConversionMonedaExtranjera
+Algoritmo Conver_Mone
     Definir pesos, cotizDolar, cotizEuro Como Real
     Definir resultDolar, resultEuro Como Real
 	
