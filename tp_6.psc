@@ -1,4 +1,4 @@
-Algoritmo CuadradoAsteriscos
+Algoritmo Rectang
     Definir lado, fila, columna Como Entero
 	
     Escribir "Ingrese el largo del lado del cuadrado/rectangulo: "
